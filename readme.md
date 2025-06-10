@@ -7,12 +7,12 @@
 ### Guía de uso
 - Para acceder a los datos de un serie estadística, se tiene que pegar el __código de la serie__ en la línea 5 del archivo .py: `codigo_serie= 'PM04986AA'`.
 
-![alt text](view.png)
+![alt text](/api_bcrp_app/images/view.png)
 
 - __Obtener el código de un serie__:
 
 El código de la serie la pueden encontrar en la propia plataforma del BCRP. Por ejemplo, si quisieramos obtener los datos del __PBI Agropecuario__, solo bastaría con copiar su código: 	`PN01713AM` y pegarlo en la línea de código respectiva. 
-![alt text](enviroment.png)
+![alt text](/api_bcrp_app/images/enviroment.png)
 
 - __Obtener los datos de más de una serie a la vez__:
 
